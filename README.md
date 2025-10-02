@@ -15,6 +15,7 @@ O **Serenatto** é uma página fictícia criada a partir de um design no Figma, 
 - **HTML5**  
 - **CSS3**  
 - **Bootstrap 5**
+- **JavaScript**
 
 ## 🎯 Objetivo
 Aprender e aplicar na prática boas práticas de front-end, utilizando as utilidades e componentes do Bootstrap para criar uma interface moderna e funcional.
